@@ -1,0 +1,27 @@
+{
+  "name": "mazebot",
+  "version": "1.0.0",
+  "description": "noops-challenge mazebot",
+  "main": "mazebot.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node mazebot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLown1331/mazebot.git"
+  },
+  "keywords": [
+    "noops-challenge",
+    "mazebot"
+  ],
+  "author": "Araf Al-Jami (CLown1331)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLown1331/mazebot/issues"
+  },
+  "homepage": "https://github.com/CLown1331/mazebot#readme"
+}
